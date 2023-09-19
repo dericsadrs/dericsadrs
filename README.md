@@ -13,8 +13,8 @@
 <a href="https://dev.to/https://dev.to/dericsadrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dericsadrs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/drccsadrs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drccsadrs/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22008152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22008152" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/drccsadrs?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/drccsadrs?hr_r=1" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.hackerrank.com/https://www.hackerrank.com/drccsadrs?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/drccsadrs?hr_r=1" height="30" width="40" /></a>
+</p> -->
 
 
 
