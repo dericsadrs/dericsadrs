@@ -2,15 +2,6 @@
 <h1 align="center">Hi 👋, I'm Deric San Andres</h1>
 <h3 align="center"> Software Engineer | Backend Developer | iOS Developer | 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dericsadrs&label=Profile%20views&color=0e75b6&style=dark" alt="dericsadrs" /> </p>
-<!-- <img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
- -->
-<!-- /*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dericsadrs" alt="dericsadrs" /></a> </p>
-*/ -->
-- 🔭 I’m currently working on [100 days of Code Complete Python Bootcamp Pro by Angela Yu](https://github.com/dericsadrs/100-Days-of-Code-Complete-Python-Pro-by-Angela-Yu.git)
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **python and swift**
 
 - 📫 How to reach me **drccsadrs@gmail.com**
 
