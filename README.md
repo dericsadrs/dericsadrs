@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deric San Andres</h1>
-<h3 align="center"> Software Engineer | Backend Developer | iOS Developer | 
+<h3 align="center"> Software Engineer | Backend Developer 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dericsadrs&label=Profile%20views&color=0e75b6&style=dark" alt="dericsadrs" /> </p>
 
 - 📫 How to reach me **drccsadrs@gmail.com**
