@@ -10,7 +10,7 @@
 
 
   <p align=center>
-    Welcome to my GitHub profile! I'm <strong>Tristan</strong>, an aspiring developer with a passion for building innovative and user-friendly applications. I have a strong foundation in Java programming and I'm currently expanding my skills in fullstack development to create end-to-end solutions.
+    Welcome to my GitHub profile! I am Deric, a dedicated Software Engineer aspiring to craft innovative and user-centric applications. With a profound foundation in JavaScript and Python programming, my focus lies primarily on backend development. Currently, I am actively enhancing my skills in Cloud development to architect comprehensive end-to-end solutions. My commitment to staying at the forefront of technology ensures a forward-thinking and proficient approach to software 
   </p>
 </div>
 
@@ -62,12 +62,11 @@
 <!-- Education -->
 ### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/d5e7f1ad-b40e-48e8-ae38-2bc15defc413" height=30> &nbsp; Education
 
-- National University of Singapore (NUS): Bachelor of Computing in Information Systems - In Progress
-- Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, Enterprise Systems Architecture & Design, Enterprise Systems Server-side Design & Development
+- Ateneo de Naga University - Bachelor of Science in Information Technology
+- Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, Relational Databases
 
 <!-- Contact -->
 ### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/66f12e1b-1488-4747-92cf-e4842109cc56" height=30> Contact Me
 
-- Email: tristantanjh@gmail.com
-
+- Email: drccsadrs@gmail.com
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. I'm always looking for opportunities to learn and grow as a developer.
