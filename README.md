@@ -30,7 +30,7 @@
 
 - **Frontend Development:** 
 
-| [<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react logo" width="28">](https://react.dev/)  | [<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap logo" width="28">](https://getbootstrap.com/)  | [<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="material ui logo" width="28">](https://mui.com/)  |
+| [<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react logo" width="28">](https://react.dev/)  | [<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap logo" width="28">](https://getbootstrap.com/)  |   |
 |---|---|---|
 
 <!-- Cat -->
