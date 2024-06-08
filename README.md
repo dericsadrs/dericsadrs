@@ -1,72 +1,86 @@
-<!-- Header -->
-<div>
-  <h3 align=center>
-    <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/64c2e2d4-3d9b-4141-bc46-2106cf67c254" height=30>
-    Hi There!
-    <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/64c2e2d4-3d9b-4141-bc46-2106cf67c254" height=30>
-  </h3>
+<h1 align="center">Hi there 👋, I'm Deric San Andres</h1>
+<h3 align="center">A tech-savvy and versatile professional exploring LLM technologies and cloud.</h3>
+---
 
-  <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/9e396477-3974-43cc-aab1-f41c7d94fcbe" height="20" width="1000">
+### 🌟 Summary:
+- **Tech-Savvy** and versatile professional with startup experience.
+- Broad knowledge in full-stack development, databases, cloud services, testing, and project management.
+- Recognized for strong technical skills, mentoring abilities, and delivering high-quality solutions through dynamic problem-solving.
+- A **quick learner** committed to adapting to new environments and technologies.
 
+---
 
-  <p align=center>
-    Welcome to my GitHub profile! I am Deric, a dedicated Software Engineer aspiring to craft innovative and user-centric applications. With a profound foundation in JavaScript and Python programming, my focus lies primarily on backend development. Currently, I am actively enhancing my skills in Cloud development to architect comprehensive end-to-end solutions. My commitment to staying at the forefront of technology ensures a forward-thinking and proficient approach to software 
-  </p>
+### 🔭 Currently:
+- 🌱 Learning: **LLM, Cloud, and CI/CD**
+- 👯 Collaborating on: **Open Source Projects**
+- 💬 Ask me about: **Web Development, Cloud Computing**
+- ⚡ Fun fact: **I enjoy playing the guitar in my free time.**
+
+---
+
+### 📬 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22008152/deric-san-andres)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dercsanandres@gmail.com)
+
+---
+
+## Skills
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frameworks
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Databases
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Certificates & Boot Camps
+
+- [University of Michigan: Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/P97MYJ69TEUF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
+- [University of Michigan: Web Design for Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/DYABNHZ6XWR7)
+- [Udemy: Dr. Angela Yu Web Development Bootcamp](https://www.udemy.com/certificate/UC-7950c2ac-9f73-435d-87b1-48507c14268f/)
+- [Cisco: CCNA](https://www.credly.com/badges/afb0d6ff-483a-489b-834e-2b5cbc5e4ae0/public_url)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dericsadrs&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dericsadrs&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dericsadrs&theme=radical" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dericsadrs&theme=radical" alt="GitHub Profile Summary" height="180px" />
 </div>
 
-<!-- Projects -->
-### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/fe6a9329-7cba-477a-889c-fe754469ed21" height=25> Current Projects
+---
 
-<!-- - Building a web application using Node.js, coupled with EJS and Express.js. [Check out the prototype here!](https://github.com/tristantanjh/ParticleHoppers)
-- Crafting my personal portfolio website using Three.js and blender. -->
-
-<!-- Skills -->
-### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/ad835ee8-bd0f-46d8-8d03-b4d84a1bef05" height=30> Skills
-
-- **Languages:** 
-
-| [<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java logo" width="28">](https://www.java.com/en/)  | [<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/HTML)  |  [<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/CSS) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/86262643-e4fa-4f1b-bb3f-5ebdc2140b44" alt="R logo" width="28">](https://www.r-project.org/) | [<img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="dart logo" width="28">](https://dart.dev/) |
-|---|---|---|---|---|---|---|
-
-- **Frontend Development:** 
-
-| [<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react logo" width="28">](https://react.dev/)  | [<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap logo" width="28">](https://getbootstrap.com/)  |   |
-|---|---|---|
-
-<!-- Cat -->
-<img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/c4d57c62-31c8-465b-8bef-f997aa59c07c" align=right height=250>
-
-- **Backend Development:** 
-
-| [<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node js logo" width="28">](https://nodejs.org/en)  | [<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express js logo" width="28">](https://expressjs.com/)  | 
-|---|---|
-
-- **Mobile Development:**
-  
-| [<img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="flutter logo" width="28">](https://flutter.dev/) | 
-|---|
-
-- **Databases:** 
-
-| [<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="my sql logo" width="28">](https://www.mysql.com/)  | [<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongo db logo" width="28">](https://www.mongodb.com/) | [<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase logo" width="28">](https://firebase.google.com/)
-|---|---|---|
-
-<!-- Stats uncomment when i'm cracked -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tristantanjh&show_icons=true&theme=tokyonight" align=right> -->
-
-- **Tools:** 
-
-| [<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git logo" width="28">](https://git-scm.com/)  | [<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github logo" width="28">](https://www.github.com/) | [<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="jira logo" width="28">](https://www.atlassian.com/software/jira) | [<img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress logo" width="28">](https://www.cypress.io/)  | [<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma logo" width="28">](https://www.figma.com/)  | [<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="canva logo" width="28">](https://www.canva.com/en_gb/)  | [<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman logo" width="28">](https://www.postman.com/) | [<img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/536ed70b-f989-44ab-827f-e5ea139930e5" alt="tableau logo" width="28">](https://www.tableau.com/) | [<img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/5482dd87-bea0-4b4e-a866-fac15473b241" alt="jakartaee logo" width="28">](https://jakarta.ee/) 
-|---|---|---|---|---|---|---|---|---|
-
-<!-- Education -->
-### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/d5e7f1ad-b40e-48e8-ae38-2bc15defc413" height=30> &nbsp; Education
-
-- Ateneo de Naga University - Bachelor of Science in Information Technology
-- Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, Relational Databases
-
-<!-- Contact -->
-### <img src="https://github.com/tristantanjh/tristantanjh/assets/99729861/66f12e1b-1488-4747-92cf-e4842109cc56" height=30> Contact Me
-
-- Email: dercsanandres@gmail.com
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. I'm always looking for opportunities to learn and grow as a developer.
+_“[Inspirational Quote]”_
