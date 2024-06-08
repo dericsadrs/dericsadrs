@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Deric San Andres</h1>
-<h3 align="center">A tech-savvy and versatile professional exploring LLM technologies and cloud.</h3>
+<h3 align="center">A tech-savvy Software Engineer exploring LLM technologies and cloud.</h3>
 ---
 
 ### 🌟 Summary:
