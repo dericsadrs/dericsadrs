@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Deric San Andres</h1>
+<h1 align="center">Hi there, I'm Deric /h1>
 <h3 align="center">A tech-savvy Software Engineer exploring LLM technologies and cloud.</h3>
 ---
 
@@ -6,15 +6,15 @@
 - **Tech-Savvy** and versatile professional with startup experience.
 - Broad knowledge in full-stack development, databases, cloud services, testing, and project management.
 - Recognized for strong technical skills, mentoring abilities, and delivering high-quality solutions through dynamic problem-solving.
-- A **quick learner** committed to adapting to new environments and technologies.
+- A **fast learner** committed to adapting to new environments and technologies.
 
 ---
 
 ### 🔭 Currently:
-- 🌱 Learning: **LLM, Cloud, and CI/CD**
-- 👯 Collaborating on: **Open Source Projects**
-- 💬 Ask me about: **Web Development, Cloud Computing**
-- ⚡ Fun fact: **I enjoy playing the guitar in my free time.**
+- 🌱 Learning: **Python, Automation, LLM, Cloud, and CI/CD**
+- 👯 Collaborating on: **My own projects**
+- 💬 Ask me about: **Python, Automation, Web Development, Cryptocurrency**
+- ⚡ Fun fact: **I enjoy reading books during my free time.**
 
 ---
 
@@ -74,7 +74,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dericsadrs&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dericsadrs&layout=compact&theme=radical" alt="Top Langs" height="180px" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dericsadrs&theme=radical" alt="GitHub Streak Stats" height="180px" />
@@ -83,4 +82,4 @@
 
 ---
 
-_“[Inspirational Quote]”_
+_“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”_ - Albert Schweitzer
