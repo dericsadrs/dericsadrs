@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Deric /h1>
+<h1 align="center">Hi there, I'm Deric </h1>
 <h3 align="center">A tech-savvy Software Engineer exploring LLM technologies and cloud.</h3>
 ---
 
@@ -77,7 +77,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dericsadrs&theme=radical" alt="GitHub Streak Stats" height="180px" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dericsadrs&theme=radical" alt="GitHub Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dericsadrs&theme=radical" alt="GitHub Profile Summary" width="70%" />
 </div>
 
 ---
