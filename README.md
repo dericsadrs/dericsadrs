@@ -125,33 +125,6 @@
   <img src="https://raw.githubusercontent.com/dericsadrs/dericsadrs/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
-<details>
-<summary>View Projects</summary>
-<br>
-
-<!-- Project Cards with Hover Animation-->
-<div align="center">
-  <a href="https://github.com/dericsadrs/your-project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dericsadrs&repo=your-project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/dericsadrs/your-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dericsadrs&repo=your-project-2&theme=tokyonight" />
-  </a>
-</div>
-
-<!-- Technology badges with animations -->
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  </p>
-</div>
-
-<!-- Add your actual project repositories when available -->
-</details>
-
   <br>
   <i>❝Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.❞</i>
   <br>
