@@ -151,11 +151,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=dericsadrs&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="100%" />
 
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dericsadrs/dericsadrs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
